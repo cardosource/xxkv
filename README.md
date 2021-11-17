@@ -1,4 +1,5 @@
-
+# xxkv
+É um projeto de cunho pessoal para realizar pequisas em paginas web especializadas em divulgação de falhas de segurança
 
 ## Sobre o World Laboratory of Bugtraq 2
 
