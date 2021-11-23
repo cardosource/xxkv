@@ -15,3 +15,5 @@ https://cxsecurity.com/
 
 https://cxsecurity.com/wlb/about/
 
+![GitHub](https://img.shields.io/badge/python-3.9-blue)
+
