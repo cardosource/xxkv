@@ -56,7 +56,7 @@ class Gestor(Interface):
                         print(todasDORKS)
 
             
-            print(f'Pesquisa consluida')
+            print(f'Pesquisa concluida')
             return True
         else:
             print('Não não')
